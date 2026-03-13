@@ -37,8 +37,6 @@ Nesta organização, você encontrará nossos **Blueprints & Boilerplates**.
 
 ### 📬 Vamos tirar seu projeto do papel?
 
-Estamos baseados em **Varginha, MG**, atendendo clientes que buscam excelência técnica e agilidade.
-
 * **Portfólio:** [prodigytech.vercel.app]
 * **Email:** [contatoprodigytech@gmail.com]
 
