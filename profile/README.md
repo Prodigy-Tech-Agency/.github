@@ -7,9 +7,13 @@ Bem-vindo ao hub de desenvolvimento da Prodigy Tech. Somos uma agência focada e
 Trabalhamos com o que há de mais eficiente no mercado para garantir escalabilidade e performance:
 
 Backend: C#, .NET Core, ASP.NET Core, Entity Framework Core.
+
 Frontend: React, Next.js, Tailwind CSS, TypeScript.
+
 Arquitetura: Clean Architecture, DDD (Domain-Driven Design), API-First.
+
 Workflow: Vibe Coding & AI-Driven Development (Foco em entrega acelerada e qualidade de código).
+
 ⚡ O que entregamos?
 Desenvolvemos soluções completas para empresas que buscam presença digital sólida e sistemas internos eficientes:
 
